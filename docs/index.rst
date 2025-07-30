@@ -1,4 +1,4 @@
-How to Install PC Matic on Windows 10
+How to Install PC Matic on Windows 10?
 =====================================
 
 PC Matic is a comprehensive security solution designed to protect your computer from malware, ransomware, and other online threats. It offers a robust set of features to not only protect your system but also to enhance its overall performance. In this article, we will guide you step by step through the process of installing PC Matic on Windows 10, and provide additional information about its features, benefits, reinstallation process, troubleshooting tips, and a conclusion.
